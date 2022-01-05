@@ -71,5 +71,9 @@ A `record`, also called a `row`, is each individual entry that exists in a `tabl
 
 A `column` is a vertical entity in a table that contains all information associated with a specific field in a table.
 
+The SELECT DISTINCT statement is used to return only distinct (different) values.
+
+Inside a table, a column often contains many duplicate values; and sometimes you only want to list the different (distinct) values.
+
 
 [SQL Tutorial](https://www.w3schools.com/sql/default.asp, 'SQL Tutorial')
